@@ -7,7 +7,7 @@
 $from = 'rei.geo@hotmail.com';
 
 // an email address that will receive the email with the output of the form
-$sendo = 'oliveira.reinaldo@escola.pr.gov.br';
+$sendo = 'leticia.ferreira.santos27@escola.pr.gov.br';
 
 // subject of the email
 $subject = 'Forumlário do site';
