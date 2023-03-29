@@ -28,7 +28,9 @@ body {
 	text-align: center;
 	color: #FFFFFF;
 }
-
+#sobre a galeria {
+	background: #8B008B;
+	padding: 10px;
 .img-campanha {
 	border: 10px solid #868A08;
 }
