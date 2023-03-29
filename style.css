@@ -34,8 +34,43 @@ body {
 .img-campanha {
 	border: 10px solid #868A08;
 }
-
-a { /*Formatação dos links*/
+#exposições {
+	background: #8B008B;
+	padding: 10px;
+.img-campanha {
+	border: 10px solid #868A08;
+}
+#vendas {
+	background: #8B008B;
+	padding: 10px;
+.img-campanha {
+	border: 10px solid #868A08;
+}
+#contato {
+	background: #8B008B;
+	padding: 10px;
+.img-campanha {
+	border: 10px solid #868A08;
+}
+#pedidos excusivos {
+	background: #8B008B;
+	padding: 10px;
+.img-campanha {
+	border: 10px solid #868A08;	
+}
+#artistas {
+	background: #8B008B;
+	padding: 10px;
+.img-campanha {
+	border: 10px solid #868A08;	
+}
+#slides{
+	background: #8B008B;
+	padding: 10px;
+.img-campanha {
+	border: 10px solid #868A08;	
+				
+	a { /*Formatação dos links*/
 	color: #4b566a;
 	text-decoration: none;
 	font-weight: bold;
